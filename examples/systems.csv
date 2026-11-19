@@ -1,0 +1,11 @@
+building,system,repair_cost,replacement_value
+Building A,HVAC,180000,900000
+Building A,Roof,60000,450000
+Building A,Electrical,15000,600000
+Building A,Plumbing,22000,350000
+Building B,HVAC,40000,700000
+Building B,Roof,5000,300000
+Building B,Elevators,0,400000
+Building C,HVAC,320000,500000
+Building C,Roof,210000,350000
+Building C,Fire Safety,45000,150000
