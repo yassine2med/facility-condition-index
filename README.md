@@ -1,5 +1,7 @@
 # facility-condition-index
 
+[![CI](https://github.com/yassine2med/facility-condition-index/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/facility-condition-index/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Calculates the Facility Condition Index per building from a CSV of building systems.
 
 ![Screenshot](docs/screenshot.png)
